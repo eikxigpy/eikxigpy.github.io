@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://eikxigpy.github.io/sitemap/sitemap.txt
